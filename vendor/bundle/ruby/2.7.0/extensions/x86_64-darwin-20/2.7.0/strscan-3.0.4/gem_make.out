@@ -1,0 +1,16 @@
+current directory: /Users/wuponpon/project/shopline/rate-limit-sample/vendor/bundle/ruby/2.7.0/gems/strscan-3.0.4/ext/strscan
+/Users/wuponpon/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/wuponpon/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20220808-58093-1g9z0o.rb extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+creating Makefile
+
+current directory: /Users/wuponpon/project/shopline/rate-limit-sample/vendor/bundle/ruby/2.7.0/gems/strscan-3.0.4/ext/strscan
+make "DESTDIR=" clean
+
+current directory: /Users/wuponpon/project/shopline/rate-limit-sample/vendor/bundle/ruby/2.7.0/gems/strscan-3.0.4/ext/strscan
+make "DESTDIR="
+compiling strscan.c
+linking shared-object strscan.bundle
+
+current directory: /Users/wuponpon/project/shopline/rate-limit-sample/vendor/bundle/ruby/2.7.0/gems/strscan-3.0.4/ext/strscan
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 strscan.bundle ./.gem.20220808-58093-ngq385

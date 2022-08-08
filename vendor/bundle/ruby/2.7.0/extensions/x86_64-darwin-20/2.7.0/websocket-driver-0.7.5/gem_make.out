@@ -1,0 +1,15 @@
+current directory: /Users/wuponpon/project/shopline/rate-limit-sample/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/wuponpon/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/wuponpon/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20220808-58093-p50br1.rb extconf.rb
+creating Makefile
+
+current directory: /Users/wuponpon/project/shopline/rate-limit-sample/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/wuponpon/project/shopline/rate-limit-sample/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/wuponpon/project/shopline/rate-limit-sample/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20220808-58093-15xy2ub
